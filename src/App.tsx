@@ -1,3 +1,7 @@
+import { render } from 'react-dom';
+import Highcharts from 'highcharts';
+import HighchartsReact from 'highcharts-react-official';
+
 export default function App() {
   return (
     <div className="App">
